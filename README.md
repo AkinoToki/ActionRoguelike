@@ -1,2 +1,2 @@
-# Learning_ActionRoguelike
+# ActionRoguelike
 https://courses.tomlooman.com/
